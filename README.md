@@ -61,8 +61,8 @@ DOM manipulation for dynamic updates
 Regex-based validation logic
 
 Improved user experience with accessibility and feedback
-T
-esting Checklist
+
+Testing Checklist
 Check empty form submission
 
 Validate incorrect email formats
